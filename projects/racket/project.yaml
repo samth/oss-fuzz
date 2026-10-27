@@ -2,8 +2,6 @@ homepage: "https://racket-lang.org"
 language: c
 primary_contact: "samth@racket-lang.org"
 main_repo: "https://github.com/racket/racket"
-auto_ccs:
-  - pocmatos@gmail.com
 sanitizers:
   - address
   - undefined
